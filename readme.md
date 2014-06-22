@@ -1,7 +1,7 @@
 
-## READ.MA for Twitter text mining applications
+# READ.MD for Twitter text mining applications
 
-# You'll want to run this first, followed by the other scripts. File descriptions are below:
+You'll want to run this first, followed by the other scripts. File descriptions are below:
 
 	- Twitter Authentication and Initial Tweets.R
 		- connect to the Twitter API
